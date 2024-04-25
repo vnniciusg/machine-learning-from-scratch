@@ -8,7 +8,7 @@ similarity with existing data.
 ### Explicit Example
 Here is a visual example for better understanding.
 
-![example for knn image](../assets/images/example1.png)
+![example for knn image](assets/images/example1.png)
 
 ## How it works?
 
